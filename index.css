@@ -1,0 +1,65 @@
+div{
+
+    background: grey;
+    color: black;
+
+}
+
+p{
+    color: cornflowerblue;
+}
+
+.Center{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    box-shadow: 0px 0px 10px rgba(47, 117, 197, 0.5);
+
+}
+
+
+.introImages{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    color: skyblue;
+}
+
+.Comments{
+
+    position: fixed;
+    background: crimson;
+    color: whitesmoke;
+    bottom: 0;
+    right: 0;
+    width: 400px;
+    border: 3px solid #73AD21;
+}
+#Supernova{
+    color: rgb(255, 241, 163);
+    border: 3px dotted goldenrod;
+    padding: 13px 13px 20px 20px;
+    margin: 15px auto;
+    /*position: absolute;*/
+}
+
+#comSection{
+
+    overflow-y: scroll;
+
+}
+
+a:hover{
+
+    background: #73AD21;
+    color: aliceblue;
+
+}
+
+a:visited{
+
+    background: aquamarine;
+}

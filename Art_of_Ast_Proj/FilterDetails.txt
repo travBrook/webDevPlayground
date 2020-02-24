@@ -1,0 +1,80 @@
+****
+For example, in chromatic order, [OIII] maps to blue, H-alpha maps to green,
+[SII] maps to red, and the narrowband continuum maps to red. 
+Alternatively, you could try [OIII]as blue, [SII] as green, and H-alpha as red.
+Experiment with color choices to highlight different features in the field.
+****
+
+Notes on images:
+
+HorseHead (Natural) :
+Had to make violet very dark so it was not overpowering/reduce cloudiness
+Filters matched with colors
+
+HorseHead (False):
+Filters & Colors:
+HAlpha : Blue
+O      : Green
+S      : Red/Orange
+nr     : Red
+
+I chose this sceheme because HAplha and S were the most prominent in the 
+picture -- and in he same areas of the image, and I wanted them to be ... prettier colors 
+The green of the O in that pocket is awesome because it is the only color there -- Nice splash
+
+Helix (Natural):
+Matched colors and filters
+
+Helix (False):
+Ha	: Green	
+O	: Red
+S	: Blue
+
+Got rid of nr because there was a lot of noise in the image
+Goal: to bring out the O filter -- so I used red surrounded by blue and green
+Which to make blue, which to make green? It looked best with as reading from
+left to right -- the colors in which the order they appear are chromatic.
+Blue gives a space feeling -- which was most of the background. The green and 
+red blended to make a beautiful yellow
+
+Thors (Natural):
+Blah
+
+Thors (False):
+nr	: Red
+Ha	: Red/orange
+S	: Green
+O	: Blue
+
+I could see that the Ha and O filters were lined up, and I imagined a nice purple when mixing them
+The results show I was right -- and the S filter gives a cool shadow to it
+
+
+Western Veil (Natural):
+Blah
+
+Western Veil (False):
+nr	: Red
+Ha	: Red orange
+S	: Green
+O	: Blue
+
+M15 Star Cluster (Natural):
+Had to adjust gamma for the green filter
+
+M15 Star Cluster (False):
+NA --no filter options for star clusters
+
+NGC 6946 (Natural):
+Blah
+
+NGC6946 (False):
+Not the best so far 
+nr	: Red
+S	: Orange/Red
+O	: Green
+Ha	: Blue
+
+
+
+
