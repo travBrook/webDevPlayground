@@ -1,0 +1,8 @@
+https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/
+
+https://levelup.gitconnected.com/all-possible-ways-of-making-an-api-call-in-plain-javascript-c0dee3c11b8b
+
+
+https://www.w3schools.com/css/css_boxmodel.asp
+
+https://www.w3schools.com/cssref/css_selectors.asp
