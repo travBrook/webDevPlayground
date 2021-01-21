@@ -1,48 +1,108 @@
 div{
 
-    background: grey;
+    background:rgb(7, 47, 80);
     color: black;
 
 }
+
+/*
+nav{
+    position: fixed;
+}
+*/
 
 p{
     color: cornflowerblue;
 }
 
+body{
+    background-color: black;
+}
+
+.topOfPage{
+    background-color: rgba(75, 75, 73, 1);
+}
+
 .Center{
     
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    box-shadow: 0px 0px 10px rgba(47, 117, 197, 0.5);
+    align-items: center;
 
 }
 
+#gall1{
+    background-color: darkblue;
+    color: yellow;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+#gall2{
+    background-color: blueviolet;
+    color: yellow;
+    padding-right: 5px;
+    padding-left: 5px;
+
+}
+#thing{
+    background-color: tomato;
+    color: darkgray;
+    padding-right: 15px;
+    padding-left: 5px;
+}
+#thing2{
+    background-color: darkgreen;
+    color: darkgray;
+    padding-right: 15px;
+    padding-left: 5px;
+    clear: right;
+}
+
+
+#headerNav a:hover{
+    color: yellow;
+    background: black;
+}
+
+.listIm{
+    width: 30px;
+    height: 30px;
+}
+
+#topList{
+    list-style-type: none;
+}
 
 .introImages{
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 75%;
+    margin-left: 30px;
+    padding-left: 30px;
+    margin-right: 0;
+    border-right: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    
+    width: 90%;
     color: skyblue;
+    z-index: -1;
 }
 
 .Comments{
 
     position: fixed;
-    background: crimson;
+    background-color: rgb(255, 172, 94);
     color: whitesmoke;
     bottom: 0;
     right: 0;
     width: 400px;
     border: 3px solid #73AD21;
+    z-index: 1;
+    overflow: hidden;
 }
 #Supernova{
     color: rgb(255, 241, 163);
     border: 3px dotted goldenrod;
     padding: 13px 13px 20px 20px;
     margin: 15px auto;
+    z-index: 2;
     /*position: absolute;*/
 }
 
